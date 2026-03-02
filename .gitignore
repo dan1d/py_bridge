@@ -1,0 +1,28 @@
+# Elixir
+/_build/
+/deps/
+/cover/
+*.ez
+*.beam
+erl_crash.dump
+
+# Mix
+mix.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.elixir_ls/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
