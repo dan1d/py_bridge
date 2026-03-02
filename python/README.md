@@ -5,7 +5,7 @@ JSON-RPC 2.0 worker helper for [PyBridge](https://github.com/dan1d/py_bridge) El
 ## Installation
 
 ```bash
-pip install py-bridge
+pip install elixir-bridge
 ```
 
 ## Usage

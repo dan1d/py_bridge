@@ -33,7 +33,7 @@ end
 Install the Python helper (optional — for the `@worker.register` decorator):
 
 ```bash
-pip install py-bridge
+pip install elixir-bridge
 ```
 
 ## Quick Start

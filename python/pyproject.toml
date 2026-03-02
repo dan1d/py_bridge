@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "py-bridge"
+name = "elixir-bridge"
 version = "0.1.0"
 description = "JSON-RPC 2.0 worker helper for Elixir PyBridge Ports"
 readme = "README.md"
